@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="welcome">Welcome</string>
+    <string name="your_name">What\'s your name? </string>
+    <string name="next">Next </string>
+    <string name="logo">Application logo </string>
+    <string name="hi"> Hi </string>
+    <string name="male">Male </string>
+    <string name="female"> Female </string>
+    <string name="calculate"> Calculate </string>
+    <string name="age"> Age </string>
+    <string name="width"> Width </string>
+    <string name="heigth"> Heigth </string>
+    <string name="Result"> Your BMI Result </string>
+    <string name="status"> You have Class I Obesity </string>
+    <string name="imc"> 30,6 </string>
+    <string name="idade"> 50 </string>
+    <string name="kg"> 97 kg </string>
+    <string name="cm"> 178 cm </string>
+    <string name="w"> weight </string>
+    <string name="h"> high </string>
+    <string name="calculo"> new Calc </string>
+
+
+</resources>
